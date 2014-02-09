@@ -1,10 +1,10 @@
-The Software Craftsmanship Dojo
+# The Software Craftsmanship Dojo
 
-This project wants to foster the principle of the SW craftsmanship manifesto via the emerging technique of applying the martial art dojo into software development.
+This project wants to foster the principle of the ["SW craftsmanship manifesto"](https://manifesto.softwarecraftsmanship.org) via the emerging technique of applying the martial art dojo into software development.
 
 ---
 
-What is a martial art dojo?
+## What is a martial art dojo?
 
 A martial art dojo is a traditional training space where individuals learn and *practice* a martial arts. The term "dojo" originates from Japanese and translates to "place of the way" or "place of learning." In the dojo, martial arts practitioners engage in rigorous physical and mental training to develop their combat skills, discipline, and character.
 
@@ -14,7 +14,7 @@ The practicing of specific techniques uses "kata" as a fundamental aspect of tra
 
 ---
 
-How does a martial art dojo can be used for software development purposes?
+## How does a martial art dojo can be used for software development purposes?
 
 In the context of software development, the term "dojo" is used metaphorically to represent a learning environment or practice space where software development teams come together to enhance their skills, collaborate, and continuously improve their craft. This concept draws parallels between the disciplined and focused training in traditional martial arts dojos and the training and improvement efforts in the software development domain.
 
@@ -26,3 +26,16 @@ As aspiring Software Craftsmen we are raising the bar of professional software d
 - Not only responding to change, but also steadily adding value
 - Not only individuals and interactions, but also a community of professionals
 - Not only customer collaboration, but also productive partnerships
+
+
+---
+
+## The coding dojo handbook
+
+Thanks to Emily Bache, in late 2013 was released the book "["The coding dojo handbook"](https://leanpub.com/codingdojohandbook)" as a master piece to empower everyone to start their own dojos and to pursue for SW Craftsmanship, pride and fun in our work.
+
+---
+
+## a completely NEW learning path.
+
+After almost 3 years and a half of experiments, and thanks to my XPeppers' friend and expecially to Pietro di Bello, it's publically available the "library" we used to train developers to become craftsmen. All the details in the theory section. 

@@ -1,6 +1,14 @@
 # The Software Craftsmanship Dojo
 
 This project wants to foster the principle of the ["SW craftsmanship manifesto"](https://manifesto.softwarecraftsmanship.org) via the emerging technique of applying the martial art dojo into software development.
+After years of development and eperimentation, time for major change arrived. Creating my new startup emerged the need to create a continuous leraning environment that fosters the right culture an technical mastery within the team.
+
+---
+## News in the dojo
+
+- New mastery progression via the judo belt system
+- New SW Craftsmahip dojo curricula divided into belts
+- Initial self-assessment test
 
 ---
 

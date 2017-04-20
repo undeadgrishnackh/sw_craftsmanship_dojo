@@ -5,14 +5,18 @@ The SW Craftsmanship dojo divides the learning experience in levels (belts) like
 The curriculum based on belts is designed to provide a smooth learning journey supported
 with all the books in the ["Library Starway to Orion"](https://github.com/xpeppers/starway-to-orione)
 
+
+![Belts](belts.jpeg)
+
+
 |          Belt          |                     Main focus                     |
 | ---------------------- | -------------------------------------------------- |
 | White                  | TDD (Test Driven Development) & Clean Code |
-| Yellow                 | ATDD (Acceptance Test Driven Development + CI Pipeline |
+| Yellow                 | ATDD (Acceptance Test Driven Development) + CI Pipeline |
 | Orange                 | CD Pipeline + BDD (Behavior Driven Development) |
-| Green                  | Gherkin & Advanced BDD |
+| Green                  | Gherkin & Advanced BDD (lean UX), ELK |
 | Blue                   | CQRS, HEX, Even Driven Architectures |
-| Brown                  | Containerization & Cloud |
+| Brown                  | DDD + Containerization + Cloud |
 | Black                  | IaC (Infrastructure as Code) + Code in production |
 
 

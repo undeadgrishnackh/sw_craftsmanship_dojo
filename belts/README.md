@@ -14,3 +14,10 @@ like in judo.
 | [Blue](blue/README.md)     | CQRS, HEX, Even Driven Architectures                    |
 | [Brown](brown/README.md)   | DDD + Containerization + Cloud                          |
 | [Black](black/README.md)   | IaC (Infrastructure as Code) + Code in production       |
+
+## Katas
+
+The SW Craftsmanship dojo 🥋 follows the coding dojo movement and the
+[Samman coaching](https://sammancoaching.org/) community. We try to stay
+connected with it by leveraging
+["Emily Bache's job"](https://github.com/emilybache?tab=repositories).

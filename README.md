@@ -1,9 +1,5 @@
 # SW Craftsmanship Dojo 🥋
 
-[[TOC]]
-
----
-
 ## Introduction
 
 ### What is the SW Craftsmanship Dojo? 🚀
@@ -35,11 +31,12 @@ evolution. It empowers developers on a journey towards mastery, aligning with
 the [SW Craftsmanship manifesto](https://manifesto.softwarecraftsmanship.org/).
 It equips individuals with the tools to navigate the intricate world of modern
 software development, leveraging renowned frameworks such as DORA & Accelerate,
-#BVSSH, Team Topologies, The Flow, and LeanUX. This initiative starts with the
-recognition that nearly 95% of developers operate within dysfunctional Agile
-teams (with a capital 'A'), struggling with poor product management and
-suboptimal SW delivery practices. The SW Craftsmanship Dojo 🥋 wants to bring
-back pride and fun in the SW development landscape.
+Better Value Sooner Safer Happier (BVSSH), Team Topologies, The Flow, and
+LeanUX. This initiative starts with the recognition that nearly 95% of
+developers operate within dysfunctional Agile teams (with a capital 'A'),
+struggling with poor product management and suboptimal SW delivery practices.
+The SW Craftsmanship Dojo 🥋 wants to bring back pride and fun in the SW
+development landscape.
 
 ### How Does it Work? 🔧
 
@@ -87,26 +84,15 @@ Afterward, with an iterative approach of hypothesis and experiments, the program
 was sliced into smaller increments and in the actual format of a continuous
 dojo. The belts are the milestones for SW craftsmanship:
 
-![Belts](belts.jpeg)
-
-| Belt   | Main focus                                              |
-| ------ | ------------------------------------------------------- |
-| White  | TDD (Test Driven Development) & Clean Code              |
-| Yellow | ATDD (Acceptance Test Driven Development) + CI Pipeline |
-| Orange | CD Pipeline + BDD (Behavior Driven Development)         |
-| Green  | Gherkin & Advanced BDD (lean UX)                        |
-| Blue   | CQRS, HEX, Even Driven Architectures                    |
-| Brown  | DDD + Containerization + Cloud + ELK                    |
-| Black  | IaC (Infrastructure as Code) + Code in production       |
+[![Belts](belts/belts.jpeg)](belts/README.md)
 
 Through this structured curriculum, the SW Craftsmanship Dojo 🥋 empowers you to
 not only become a master of software craftsmanship but also align your skills
 with real-world industry demands, ensuring you're well-prepared to create
 exceptional software products.
 
-## Katas
+---
 
-The SW Craftsmanship dojo 🥋 follows the coding dojo movement and the
-[Samman coaching](https://sammancoaching.org/) community. We try to stay
-connected with it by leveraging
-["Emily Bache's job"](https://github.com/emilybache?tab=repositories).
+## Where to start
+
+Start your SW Craftsmanship journey by clicking ["👉 HERE 👈"](belts/README.md).

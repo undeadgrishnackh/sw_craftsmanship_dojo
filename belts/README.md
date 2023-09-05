@@ -1,27 +1,16 @@
-The SW Craftsmanship dojo divides the learning experience in levels (belts) like in judo.
+# Belts in a nutshell
 
-## belts & curriculum
-
-The curriculum based on belts is designed to provide a smooth learning journey supported
-with all the books in the ["Library Starway to Orion"](https://github.com/xpeppers/starway-to-orione)
-
+The SW Craftsmanship dojo divides the learning experience into levels (belts)
+like in judo.
 
 ![Belts](belts.jpeg)
 
-
-|          Belt          |                     Main focus                     |
-| ---------------------- | -------------------------------------------------- |
-| White                  | TDD (Test Driven Development) & Clean Code |
-| Yellow                 | ATDD (Acceptance Test Driven Development) + CI Pipeline |
-| Orange                 | CD Pipeline + BDD (Behavior Driven Development) |
-| Green                  | Gherkin & Advanced BDD (lean UX), ELK |
-| Blue                   | CQRS, HEX, Even Driven Architectures |
-| Brown                  | DDD + Containerization + Cloud |
-| Black                  | IaC (Infrastructure as Code) + Code in production |
-
-
-## assessment test
-
-To perform the assessment test you need to select a kata (suggested a game) and develop it
-at your best. When It's completed evaluate how deep your knowledge was based on the
-belts curriculum above.
+| Belt                       | Main focus                                              |
+| -------------------------- | ------------------------------------------------------- |
+| [White](white/README.md)   | TDD (Test Driven Development) & Clean Code              |
+| [Yellow](yellow/README.md) | ATDD (Acceptance Test Driven Development) + CI Pipeline |
+| [Orange](orange/README.md) | CD Pipeline + BDD (Behavior Driven Development)         |
+| [Green](green/README.md)   | Gherkin & Advanced BDD (lean UX), ELK                   |
+| [Blue](blue/README.md)     | CQRS, HEX, Even Driven Architectures                    |
+| [Brown](brown/README.md)   | DDD + Containerization + Cloud                          |
+| [Black](black/README.md)   | IaC (Infrastructure as Code) + Code in production       |

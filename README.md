@@ -1,49 +1,112 @@
-# The Software Craftsmanship Dojo
+# SW Craftsmanship Dojo 🥋
 
-This project wants to foster the principle of the ["SW craftsmanship manifesto"](https://manifesto.softwarecraftsmanship.org) via the emerging technique of applying the martial art dojo into software development.
-After years of development and eperimentation, time for major change arrived. Creating my new startup emerged the need to create a continuous leraning environment that fosters the right culture an technical mastery within the team.
-
----
-## News in the dojo
-
-- New mastery progression via the judo belt system
-- New SW Craftsmahip dojo curricula divided into belts
-- Initial self-assessment test
+[[TOC]]
 
 ---
 
-## What is a martial art dojo?
+## Introduction
 
-A martial art dojo is a traditional training space where individuals learn and *practice* a martial arts. The term "dojo" originates from Japanese and translates to "place of the way" or "place of learning." In the dojo, martial arts practitioners engage in rigorous physical and mental training to develop their combat skills, discipline, and character.
+### What is the SW Craftsmanship Dojo? 🚀
 
-Dojos typically follow a structured curriculum led by experienced instructors (sensei) who guide students through the learning process. The training sessions involve practicing specific techniques, forms, and sparring (controlled combat) with fellow students to gain proficiency in their chosen martial art. 
+The SW Craftsmanship Dojo 🥋 is far from a typical training program; it's a
+transformative journey that enriches century-old martial arts teaching
+traditions with the power of continuous learning, neuroscience, and behavioral
+psychology. This unique platform propels individuals and organizations towards
+software craftsmanship. It revolutionizes how we approach software development,
+cultivating a culture of performance. It offers a comprehensive journey,
+spanning from product discovery and development to production-ready Site
+Reliability Engineering (SRE) practices.
 
-The practicing of specific techniques uses "kata" as a fundamental aspect of training. Kata is a Japanese term that refers to a "choreographed sequence of movements" or "techniques that are performed in a specific pattern". These sequences are designed to represent various combat scenarios and attacks.
+### When Was it Created? 📅
+
+Born in 2010 from over a decade of empirical studies, extensive industry
+research, and the best practices of the software development realm, the SW
+Craftsmanship Dojo 🥋 was painstakingly crafted. Its creation stands as a
+testament to the unwavering dedication of Michele Brissoni, who sought to usher
+in a new era of software craftsmanship.
+
+### Why Was it Created? 💡
+
+The SW Craftsmanship Dojo 🥋 emerged to meet the pressing need for a
+transformative learning experience within the ever-evolving software development
+landscape. Its mission is to bridge the gap between theory and practice,
+offering a comprehensive approach that enables continuous skill and knowledge
+evolution. It empowers developers on a journey towards mastery, aligning with
+the [SW Craftsmanship manifesto](https://manifesto.softwarecraftsmanship.org/).
+It equips individuals with the tools to navigate the intricate world of modern
+software development, leveraging renowned frameworks such as DORA & Accelerate,
+#BVSSH, Team Topologies, The Flow, and LeanUX. This initiative starts with the
+recognition that nearly 95% of developers operate within dysfunctional Agile
+teams (with a capital 'A'), struggling with poor product management and
+suboptimal SW delivery practices. The SW Craftsmanship Dojo 🥋 wants to bring
+back pride and fun in the SW development landscape.
+
+### How Does it Work? 🔧
+
+The SW Craftsmanship Dojo 🥋 belt system, drawing inspiration from the
+discipline of Judo 🥋, symbolizes your progress, from novice (white belt) to
+expert (black belt). Much like in Judo, it represents not only your skill level
+but also your commitment to the craft and the community. Your journey through
+the belt system mirrors your growth in software craftsmanship. The dojo operates
+on the principle of continuous practice, with a unique curriculum meticulously
+designed to harness the power of daily incremental growth. By improving yourself
+by just 1% each day, you'll be astounded by the exponential advancements within
+your grasp. The program encompasses theory, practice, coaching, mentoring, and a
+vibrant community of practitioners, all grounded in neuroscience and behavioral
+psychology techniques.
+
+### Why is it Different? 🌟
+
+What truly sets the SW Craftsmanship Dojo 🥋 apart is its holistic approach.
+It's not merely about attending classes; it's about immediately applying what
+you learn in your day-to-day work. Additionally, its unique approach
+incorporates neuroscience components, leveraging gamification and role-play
+games, which have demonstrated astonishing results in correcting dysfunctional
+behaviors. We use tactical empathy to expose the reasons why the majority of
+software lifecycles are dysfunctional and painful. The program provides the
+awareness and tools to address these issues, bringing back the pride in your
+work and the passion that will propel you and your projects toward elite
+performance.
+
+### Disclaimer ❗️
+
+However, it's important to note that the full potential of the SW Craftsmanship
+Dojo 🥋 isn't solely in the curriculum. Having skilled coaches who play the role
+of sensei and guide you on your journey is a crucial element in unlocking the
+dojo's transformative power.
 
 ---
 
-## How does a martial art dojo can be used for software development purposes?
+## Belts & Curriculum
 
-In the context of software development, the term "dojo" is used metaphorically to represent a learning environment or practice space where software development teams come together to enhance their skills, collaborate, and continuously improve their craft. This concept draws parallels between the disciplined and focused training in traditional martial arts dojos and the training and improvement efforts in the software development domain.
+The curriculum of the SW Craftsmanship Dojo 🥋 was initially designed around a
+full immersion dojo, the
+["Library Starway to Orion"](https://github.com/xpeppers/starway-to-orione) made
+by my XPepper friends, and 6 months of a Samman coach embedded in the team.
+Afterward, with an iterative approach of hypothesis and experiments, the program
+was sliced into smaller increments and in the actual format of a continuous
+dojo. The belts are the milestones for SW craftsmanship:
 
-In a software development "dojo," the focus is on fostering a culture of continuous learning, collaboration, and mastery. Principle that are indeed part of the SW Craftsmanship manifesto published in 2009:
+![Belts](belts.jpeg)
 
-As aspiring Software Craftsmen we are raising the bar of professional software development by practicing it and helping others learn the craft:
+| Belt   | Main focus                                              |
+| ------ | ------------------------------------------------------- |
+| White  | TDD (Test Driven Development) & Clean Code              |
+| Yellow | ATDD (Acceptance Test Driven Development) + CI Pipeline |
+| Orange | CD Pipeline + BDD (Behavior Driven Development)         |
+| Green  | Gherkin & Advanced BDD (lean UX)                        |
+| Blue   | CQRS, HEX, Even Driven Architectures                    |
+| Brown  | DDD + Containerization + Cloud + ELK                    |
+| Black  | IaC (Infrastructure as Code) + Code in production       |
 
-- Not only working software, but also well-crafted software
-- Not only responding to change, but also steadily adding value
-- Not only individuals and interactions, but also a community of professionals
-- Not only customer collaboration, but also productive partnerships
+Through this structured curriculum, the SW Craftsmanship Dojo 🥋 empowers you to
+not only become a master of software craftsmanship but also align your skills
+with real-world industry demands, ensuring you're well-prepared to create
+exceptional software products.
 
+## Katas
 
----
-
-## The coding dojo handbook
-
-Thanks to Emily Bache, in late 2013 was released the book "["The coding dojo handbook"](https://leanpub.com/codingdojohandbook)" as a master piece to empower everyone to start their own dojos and to pursue for SW Craftsmanship, pride and fun in our work.
-
----
-
-## a completely NEW learning path.
-
-After almost 3 years and a half of experiments, and thanks to my XPeppers' friend and expecially to Pietro di Bello, it's publically available the "library" we used to train developers to become craftsmen. All the details in the theory section. 
+The SW Craftsmanship dojo 🥋 follows the coding dojo movement and the
+[Samman coaching](https://sammancoaching.org/) community. We try to stay
+connected with it by leveraging
+["Emily Bache's job"](https://github.com/emilybache?tab=repositories).

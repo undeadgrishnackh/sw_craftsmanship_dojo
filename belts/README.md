@@ -7,13 +7,13 @@ like in judo.
 
 | Belt                       | Main focus                                              |
 | -------------------------- | ------------------------------------------------------- |
-| [White](white/README.md)   | TDD (Test Driven Development) & Clean Code              |
-| [Yellow](yellow/README.md) | ATDD (Acceptance Test Driven Development) + CI Pipeline |
-| [Orange](orange/README.md) | CD Pipeline + BDD (Behavior Driven Development)         |
-| [Green](green/README.md)   | Gherkin & Advanced BDD (lean UX), ELK                   |
-| [Blue](blue/README.md)     | CQRS, HEX, Even Driven Architectures                    |
-| [Brown](brown/README.md)   | DDD + Containerization + Cloud                          |
-| [Black](black/README.md)   | IaC (Infrastructure as Code) + Code in production       |
+| [White](01-white/README.md)   | TDD (Test Driven Development) & Clean Code              |
+| [Yellow](02-yellow/README.md) | ATDD (Acceptance Test Driven Development) + CI Pipeline |
+| [Orange](03-orange/README.md) | CD Pipeline + BDD (Behavior Driven Development)         |
+| [Green](04-green/README.md)   | Gherkin & Advanced BDD (lean UX), ELK                   |
+| [Blue](05-blue/README.md)     | CQRS, HEX, Even Driven Architectures                    |
+| [Brown](06-brown/README.md)   | DDD + Containerization + Cloud                          |
+| [Black](07-black/README.md)   | IaC (Infrastructure as Code) + Code in production       |
 
 ## Katas
 

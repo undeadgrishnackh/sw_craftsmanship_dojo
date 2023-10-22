@@ -40,7 +40,7 @@ acquired during the White Belt journey.
 
 **A:** The graduation from White to Yellow belt follows these rules:
 
-| From ⚪️[White belt](../../white/) to       | 🟡[Yellow belt](../../yellow/)               |
+| From ⚪️[White belt](../../01-white/) to       | 🟡[Yellow belt](../../02-yellow/)               |
 | ------------------------------------------ | -------------------------------------------- |
 | 🎯 - Main focus                            | [TDD](../../../skills-and-capabilities/tdd/) |
 | 🏋️ - Discipline                            | 🥋 (show all the daily katas)                |

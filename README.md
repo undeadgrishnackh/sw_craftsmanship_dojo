@@ -94,4 +94,7 @@ exceptional software products.
 
 ## Where to start
 
+Is SW Craftsmanship relevant in the AI era? It is more important than ever.
+[Click here to learn more about why.](https://aicraftsmanshipdojo.com/)
+
 Start your SW Craftsmanship journey by clicking ["👉 HERE 👈"](belts/README.md).
